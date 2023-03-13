@@ -1,0 +1,23 @@
+.tt,td,th,tr
+{
+    border-collapse: collapse;
+    border: solid 1px lightblue;
+}
+.first
+{
+    background-color: red;
+}
+.second
+{
+    background-color: yellow;
+}
+.third
+{
+    background-color: black;
+    color: aliceblue;
+}
+.tt
+{
+    float: left;
+    padding-right: 500px;
+}
